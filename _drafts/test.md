@@ -2,6 +2,7 @@
 layout: test-layout
 # layout: default
 title: Test.MD-Layout
+categories: testowe
 my_number: 5
 ---
 
