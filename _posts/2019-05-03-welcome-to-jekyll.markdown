@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2019-05-03 22:32:17 +0200
 author: corondo
 categories: testowe
-tags: [jekyll, update]
+tags: jekyll update
 ---
 
 {{ page.title }}
